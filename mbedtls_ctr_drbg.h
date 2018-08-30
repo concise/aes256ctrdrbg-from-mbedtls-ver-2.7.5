@@ -28,7 +28,7 @@
 #ifndef MBEDTLS_CTR_DRBG_H
 #define MBEDTLS_CTR_DRBG_H
 
-#include "aes.h"
+#include "mbedtls_aes.h"
 
 #if defined(MBEDTLS_THREADING_C)
 #include "threading.h"
